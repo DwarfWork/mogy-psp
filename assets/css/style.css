@@ -11,3 +11,10 @@ body{
     width: 140px;
     height: auto;
 }
+
+
+@media screen and (min-width: 1440px){
+    .container{
+        width: 100%;
+    }
+}
