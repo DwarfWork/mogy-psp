@@ -4,9 +4,14 @@ body{
 
 .header{
     background: #000;
-    height: 150px;
+    height: 70px;
     width: 100%;
 }
+
+.logotype{
+    position: relative;
+}
+
 .logotype img{
     width: 140px;
     height: auto;
